@@ -8,5 +8,7 @@ The best channel to use is Twitter, a social network used daily by a quarter of 
 The software:
 
 *_Creates a connection between Twitter and socket through API v2;_
+
 *_Sends real time tweets from Twitter to socket base on predefined keywords;_
+
 *_Performs a real time sentiment analysis and outputs a pie chart based on the sentiment towards the candidate (positive, negative or neutral)._
