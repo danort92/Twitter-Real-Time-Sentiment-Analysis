@@ -1,4 +1,4 @@
-## Twitter-Real-Time-Sentiment-Analysis-
+## Twitter Real Time Sentiment Analysis
  
 
 The 2024 US presidential election is near and you are hired as the official data scientist for the election campaign of one of the frontrunners: Dwayne "The Rock" Johnson.
